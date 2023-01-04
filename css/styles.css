@@ -1,0 +1,33 @@
+
+.body-style{
+/*	background: skyblue;*/
+}
+
+.header{
+	height: 121px;
+}
+
+.logo{
+	width: 200px;
+    height: 48px;
+}
+
+.header-sign-in{
+	float: right;
+	margin-right: 75px;
+/*	margin-top: -75px;*/
+	font-size: 18px;
+}
+
+
+.navbar{
+/*	background: orange;*/
+}
+
+.container{
+/*	background: red;*/
+}
+
+.footer{
+/*	background: blue;*/
+}
